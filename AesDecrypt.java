@@ -28,7 +28,7 @@ public class AesDecrypt {
 
   public static void main(String[] args)  {
 
-    String key = "ALFAGIFT1V09O17L1019E2991V09MAPI";
+    String key = "TRIMULFT1V09O17L1019E2991V09MAPI";
     String iv = "2022E2991V09O17L";
 
     String decrypt = decrypt("qzHpTEdZonmGB6WwiNzFkQ==", key, iv);
